@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBAvDFqPYNg2o20okWhjTJzwjeC5j3YTaY",
-  authDomain: "synergy-test-a1f24.firebaseapp.com",
-  projectId: "synergy-test-a1f24",
-  storageBucket: "synergy-test-a1f24.appspot.com",
-  messagingSenderId: "194796403828",
-  appId: "1:194796403828:web:0cc9ffb2840ec604106521",
-  measurementId: "G-HCYY8EQFEL"
+  apiKey: "AIzaSyDkilz_FNWQjxQo3v2pnDld-2GQrlHDiGE",
+  authDomain: "batshu-c203f.firebaseapp.com",
+  projectId: "batshu-c203f",
+  storageBucket: "batshu-c203f.appspot.com",
+  messagingSenderId: "262372510224",
+  appId: "1:262372510224:web:699a7f6cde0a1108731895",
+  measurementId: "G-ZXKL83XJ32"
 };
 
 const app = initializeApp(firebaseConfig);
